@@ -1,4 +1,4 @@
-//% color=240 weight=100 icon="\uf0c2" block="SGP30 Luftkvalitet"
+//% color=240 weight=100 icon="\uf0c2" block="SGP30 - Luftkvalitet"
 namespace SGP30 {
 
     const SGP30_ADDR = 0x58
