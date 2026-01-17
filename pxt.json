@@ -1,5 +1,5 @@
 {
-    "name": "SGP30 sensor",
+    "name": "SGP30",
     "description": "SGP30 luftkvalitetssensor for micro:bit",
     "dependencies": {
         "core": "*",
